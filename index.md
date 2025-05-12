@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Ryans Page
 ---
-
+# This page has my stuff
